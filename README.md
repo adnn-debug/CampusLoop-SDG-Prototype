@@ -48,10 +48,12 @@ CampusLoop is an SDG-focused web prototype for reporting campus problems, tracki
 ![Analytics](screenshots/analytics.jpg)
 
 ### Notifications
-![Notifications](screenshots/notifications.jpg)
+<img width="1280" height="963" alt="WhatsApp Image 2026-09-12 at 10 25 31 PM" src="https://github.com/user-attachments/assets/f0e23708-9239-4259-a53b-992aeee19ead" />
+
 
 ### Report-to-Resolution Workflow
-![Workflow](screenshots/workflow.jpg)
+<img width="1280" height="963" alt="WhatsApp Image 2026-09-12 at 10 25 30 PM" src="https://github.com/user-attachments/assets/3efa2782-caa4-4485-bce5-2d238cb5edda" />
+
 
 ## SDG Relevance
 
