@@ -1,110 +1,47 @@
-# CampusLoop – Transparent Campus Problem Reporting & Resolution System
+# CampusLoop – Campus Problem Reporting & Resolution System
 
-CampusLoop is an SDG-focused digital platform designed to make campus problem reporting more transparent, trackable, and student-friendly.
+CampusLoop is an SDG-focused web prototype that helps students report campus problems, track progress, and give feedback after resolution. Administrators can validate reports, update status, monitor pending issues, and close resolved complaints.
 
-Instead of reporting issues informally and then not knowing what happens next, students can submit a problem, track its status, see progress, and provide feedback after resolution.
+## Live Prototype
 
-## 🌐 Live Prototype
+https://campus-loop-solve.base44.app
 
-**Try the working prototype:** https://campus-loop-solve.base44.app
+## Problem
 
-> This prototype was built using Base44. The current Base44 plan used for the project does not provide direct source-code export, so this repository currently documents the project, workflow, features, and future development roadmap.
+Campus issues are often reported through informal channels, making it difficult for students to know whether a complaint was recorded, acted on, or resolved.
 
-## 🎯 Problem Statement
+## Solution
 
-Students often face campus issues such as damaged facilities, cleanliness problems, electrical faults, water-related issues, classroom problems, or other infrastructure concerns.
-
-When these problems are reported verbally or through informal channels, students may not know whether the issue was recorded, who is handling it, what action has been taken, or whether it was actually resolved.
-
-CampusLoop aims to digitize the complete process from **reporting to resolution to feedback**.
-
-## 💡 Solution
-
-CampusLoop provides a simple digital workflow where students can:
-
-- Report a campus problem
-- Select a problem category
-- Add details and supporting information
-- Track the complaint status
-- View progress updates
-- Give feedback after resolution
-
-The administration can:
-
-- Review submitted reports
-- Validate whether a problem is genuine
-- Update the complaint status
-- Monitor unresolved issues
-- Mark problems as resolved
-- Review student feedback
-
-## 🔄 Workflow
-
-```text
-Student identifies a campus problem
-            ↓
-Student submits the report
-            ↓
-Admin reviews the problem
-            ↓
-Problem is accepted / reviewed
-            ↓
-Status and progress are updated
-            ↓
-Problem is resolved
-            ↓
-Student gives feedback
-```
-
-The core idea is simple:
+CampusLoop creates a transparent digital flow:
 
 **Report → Review → Action → Resolution → Feedback**
 
-## ✨ Main Features
+### Student Features
+- Report campus problems
+- Choose a problem category
+- Add details and evidence
+- Report anonymously when needed
+- Track complaint status and progress
+- Give feedback after resolution
 
-### Student Side
-- Simple problem reporting
-- Problem categories
-- Description and supporting evidence
-- Complaint status tracking
-- Resolution progress visibility
-- Feedback after resolution
-- User-friendly interface
-
-### Administration Side
-- Central admin dashboard
-- View submitted problems
-- Validate reports
-- Manage complaint status
+### Admin Features
+- Review and validate reports
+- View recent complaints
+- Update status and progress
 - Monitor unresolved issues
-- Mark issues as resolved
-- Review student feedback
+- View analytics and notifications
+- Mark problems as resolved
 
-## 🧠 Thought Process
-
-The project was built around one important question:
-
-> What happens after a student reports a problem?
-
-A reporting form alone does not create transparency. CampusLoop focuses on the full complaint lifecycle so students can see what happens after submission and the administration gets a more structured way to manage campus issues.
-
-## 🛠️ Built With
-
-- Base44
-- Web-based responsive interface
-- Base44 database/backend services
-- GitHub for documentation and future development
-
-## 📸 Prototype Screenshots
+## Prototype Screenshots
 
 ### Home Page
 ![CampusLoop Home Page](screenshots/home-page.jpg)
 
-### Report a Problem
+### Report Options
 ![Report Options](screenshots/report-options.jpg)
 
-### Anonymous Reporting
-![Anonymous Report Form](screenshots/anonymous-report.jpg)
+### Problem Report Form
+![Problem Report Form](screenshots/anonymous-report.jpg)
 
 ### Admin Login
 ![Admin Login](screenshots/admin-login.jpg)
@@ -116,79 +53,37 @@ A reporting form alone does not create transparency. CampusLoop focuses on the f
 ![Recent Reports](screenshots/recent-reports.jpg)
 
 ### Analytics
-![CampusLoop Analytics](screenshots/analytics.jpg)
+![Analytics](screenshots/analytics.jpg)
 
 ### Notifications
-![Admin Notifications](screenshots/notifications.jpg)
+![Notifications](screenshots/notifications.jpg)
 
 ### Report-to-Resolution Workflow
-![Report to Resolution Workflow](screenshots/workflow.jpg)
+![Workflow](screenshots/workflow.jpg)
 
-## 🌍 SDG Relevance
+## Built With
 
-CampusLoop supports the idea of more responsible, inclusive, transparent, and sustainable institutions by improving how campus issues are reported and resolved.
+- Base44
+- Base44 database/backend services
+- GitHub for project documentation
 
-The project encourages:
+The current prototype was created in Base44, so exported application source code is not included in this repository.
 
-- Accountability
-- Student participation
-- Better campus management
-- Faster identification of recurring problems
-- Data-based improvement of campus facilities
+## SDG Relevance
 
-## 🚀 Future Scope
+CampusLoop supports more accountable and responsive institutions by improving transparency, student participation, issue tracking, and data-based campus management.
 
-Future versions can include:
+## Future Scope
 
-- AI-assisted complaint categorization
+- AI-assisted complaint classification
 - Duplicate-problem detection
-- Priority scoring for urgent issues
-- Automatic notifications
-- Escalation for long-pending complaints
-- Analytics dashboard
-- Campus problem heatmaps
-- Department-wise performance tracking
-- Multilingual support
-- Accessibility improvements
-- Anonymous reporting where appropriate
+- Urgency scoring and escalation
+- Campus issue heatmaps
+- Department performance analytics
+- Multilingual and accessibility support
 - Mobile application
-- Independent authentication and role management
-- Independent backend/API and database
+- Independent backend, authentication, and database
 
-## 📂 Repository Structure
+## Status
 
-```text
-CampusLoop-SDG-Prototype/
-│
-├── README.md
-├── docs/
-│   ├── problem-statement.md
-│   ├── solution.md
-│   └── future-scope.md
-└── screenshots/
-    ├── home-page.jpg
-    ├── report-options.jpg
-    ├── anonymous-report.jpg
-    ├── admin-login.jpg
-    ├── admin-dashboard.jpg
-    ├── recent-reports.jpg
-    ├── analytics.jpg
-    ├── notifications.jpg
-    └── workflow.jpg
-```
-
-## 👥 Team
-
-Developed as part of an SDG / Innovation Week project.
-
-## 📌 Project Status
-
-This is currently a **working prototype** built with Base44. The prototype demonstrates the main product idea, reporting workflow, admin handling, status tracking, and feedback mechanism.
-
-## 🙌 Acknowledgements
-
-Thanks to our mentors, faculty members, teammates, and workshop organizers who supported the ideation, prototyping, testing, and presentation of this project.
-
-## 🔗 Demo
-
-**Live Website:** https://campus-loop-solve.base44.app
+Working prototype for an SDG / Innovation Week project.
