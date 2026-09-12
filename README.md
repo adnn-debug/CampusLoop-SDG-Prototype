@@ -97,15 +97,32 @@ A reporting form alone does not create transparency. CampusLoop focuses on the f
 
 ## 📸 Prototype Screenshots
 
-Screenshots of the working prototype will be added in the `screenshots/` folder.
+### Home Page
+![CampusLoop Home Page](screenshots/home-page.jpg)
 
-Planned screenshots:
+### Report a Problem
+![Report Options](screenshots/report-options.jpg)
 
-- Home page
-- Report problem page
-- Admin dashboard
-- Problem status tracking
-- Feedback panel
+### Anonymous Reporting
+![Anonymous Report Form](screenshots/anonymous-report.jpg)
+
+### Admin Login
+![Admin Login](screenshots/admin-login.jpg)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.jpg)
+
+### Recent Reports
+![Recent Reports](screenshots/recent-reports.jpg)
+
+### Analytics
+![CampusLoop Analytics](screenshots/analytics.jpg)
+
+### Notifications
+![Admin Notifications](screenshots/notifications.jpg)
+
+### Report-to-Resolution Workflow
+![Report to Resolution Workflow](screenshots/workflow.jpg)
 
 ## 🌍 SDG Relevance
 
@@ -149,14 +166,20 @@ CampusLoop-SDG-Prototype/
 │   ├── solution.md
 │   └── future-scope.md
 └── screenshots/
-    └── README.md
+    ├── home-page.jpg
+    ├── report-options.jpg
+    ├── anonymous-report.jpg
+    ├── admin-login.jpg
+    ├── admin-dashboard.jpg
+    ├── recent-reports.jpg
+    ├── analytics.jpg
+    ├── notifications.jpg
+    └── workflow.jpg
 ```
 
 ## 👥 Team
 
 Developed as part of an SDG / Innovation Week project.
-
-
 
 ## 📌 Project Status
 
