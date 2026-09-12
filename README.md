@@ -156,7 +156,7 @@ CampusLoop-SDG-Prototype/
 
 Developed as part of an SDG / Innovation Week project.
 
-Team member details can be added here later.
+
 
 ## 📌 Project Status
 
