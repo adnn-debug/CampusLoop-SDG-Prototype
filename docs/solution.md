@@ -1,17 +1,9 @@
-# Proposed Solution
+# Solution
 
-CampusLoop is a digital campus problem-reporting and resolution platform.
+CampusLoop provides a simple digital complaint flow.
 
-## Student Flow
-1. Report a campus problem.
-2. Add details or supporting evidence.
-3. Track its status and progress.
-4. Give feedback after resolution.
+**Students:** report an issue, add evidence, track progress, and give feedback.
 
-## Admin Flow
-1. Review and validate the report.
-2. Categorize and process the issue.
-3. Update its status during resolution.
-4. Mark it resolved and review student feedback.
+**Administrators:** validate reports, update status, monitor progress, and close resolved issues.
 
 **Report → Review → Action → Resolution → Feedback**
