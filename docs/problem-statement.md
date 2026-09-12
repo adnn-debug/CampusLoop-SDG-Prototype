@@ -1,14 +1,5 @@
 # Problem Statement
 
-Campus problems are often reported through informal channels such as verbal complaints, messages, or direct communication with faculty or administration.
+Campus problems are often reported verbally or through informal messages. This makes it difficult for students to know whether an issue was officially recorded, who is handling it, what action has been taken, and when it is resolved.
 
-This creates a lack of transparency because students may not know:
-
-- Whether the problem was officially recorded
-- Who is responsible for resolving it
-- What action has been taken
-- Whether the issue is still pending
-- When the issue was resolved
-- Whether student feedback was considered
-
-The goal of CampusLoop is to create a transparent digital system that covers the complete journey from problem reporting to resolution and feedback.
+CampusLoop aims to make the complete process—from reporting to resolution and feedback—transparent and trackable.
